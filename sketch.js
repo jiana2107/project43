@@ -34,6 +34,7 @@ function draw() {
   text('TICK TOCK CLOCK!!',50,450)
 
   translate(200,200)
+  rotate(-90)
 
   noFill()
   //second
